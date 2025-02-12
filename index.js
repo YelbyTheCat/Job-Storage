@@ -10,6 +10,7 @@ app.use(require('body-parser').json());
 app.use('/api/google-sheets', require('./routes/api/google-sheets'));
 app.use('/api/jobs', require('./routes/api/jobs'));
 app.use('/api/finances', require('./routes/api/finances'));
+app.use('/api/users', require('./routes/api/users'));
 
 // Refresh fix
 const config = require('./config/webpack.config');
