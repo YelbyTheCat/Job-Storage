@@ -1,4 +1,4 @@
-# Hello, welcome to Cat Utilities!
+# Hello, welcome to Job Storage!
 
 This is a web app that is currently under development. The current purpose of this app is to store jobs that have been applied for, storing simple information. Also for knowing how much money a person has and has spent.
 
