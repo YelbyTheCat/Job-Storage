@@ -11,8 +11,8 @@ NPM
 ## Setup
 
 ### Git / Edits
-1. Find a destination on your computer and pull the repository to it, such as `git clone https://github.com/YelbyTheCat/Cat-Utilities.git` and wait for it to download
-2. Using the same `terminal/command prompt` do `cd Cat-Utilities` or similar to travel into the folder
+1. Find a destination on your computer and pull the repository to it, such as `git clone https://github.com/YelbyTheCat/Job-Storage.git` and wait for it to download
+2. Using the same `terminal/command prompt` do `cd Job-Storage` or similar to travel into the folder
 3. Assuming `npm` is installed, run `npm i` to install everything
 4. Locate the `.example.env` file and remove the `.example`
 5. Where it says `BS_THEME` I prefer dark, so it can say `BS_THEME=dark` but if you prefer light mode you can change it to `light` instead of `dark`
